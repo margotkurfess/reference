@@ -1,2 +1,5 @@
-# reference
-Keep track of commands and useful documentation across different coding languages.
+# Reference
+
+## The goals of this repo are to:
+- Keep track of the commands I find useful
+- Explore creating documentation
