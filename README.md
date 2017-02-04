@@ -16,8 +16,8 @@ Welcome!
 
 I will be adding to this repo as I continue to develop my technical tool kit. As of now, I am writing documentation for the following languages and tools:
 
-- [Python](https://github.com/margotkurfess/reference/python.md)
-- [Command Line](https://github.com/margotkurfess/reference/command_line.md)
+- [Python](https://github.com/margotkurfess/reference/blob/master/python.md)
+- [Command Line](https://github.com/margotkurfess/reference/blob/master/command_line.md)
 
 ## Contribution
 
