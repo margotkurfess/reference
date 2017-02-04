@@ -19,65 +19,79 @@ This documentation is to keep track of useful commands and resources for Python.
 
 -	sort by one column
 	```python
-	df.sort_values('col')```
+	df.sort_values('col')
+	```
 
 -	sort by multiple colummns
 	```python
-	df.sort(['col1','col2'], ascending=[1, 0])```
+	df.sort(['col1','col2'], ascending=[1, 0])
+	```
 
 -	drop duplicates in a df
 	```python
-	df = df.drop_duplicates()```
+	df = df.drop_duplicates()
+	```
 
 -	list unique values of a column in a df	
 	```python
-	df.col.unique()```
+	df.col.unique()
+	```
 
 -	reset index of a df
 	```python
-	df = df.reset_index()```
+	df = df.reset_index()
+	```
 
 -	keep and order columns in a df
 	```python
-	df = df[['col1','col2','col3',...]]```
+	df = df[['col1','col2','col3',...]]
+	```
 
 -	get data types of the objects in a df
 	```python
-	df.dtypes```
+	df.dtypes
+	```
 
 -	cast column as type
 	```python
-	df['column'] = df.column.astype('type')```
+	df['column'] = df.column.astype('type')
+	```
 
 -	rename columns
 	```python
-	df = df.rename(columns={'oldName1': 'newName1', 'oldName2': 'newName2'})```
+	df = df.rename(columns={'oldName1': 'newName1', 'oldName2': 'newName2'})
+	```
 
 
 ### Pandas
 
 -	import library
 	```python
-	import pandas as pd```
+	import pandas as pd
+	```
 
 -	read in a csv file
 	```python
-	df = pd.read_csv('filename.csv')```
+	df = pd.read_csv('filename.csv')
+	```
 
 -	convert object to datetime
 	```python
-	df['date'] = pd.to_datetime(df['date'])```
+	df['date'] = pd.to_datetime(df['date'])
+	```
 
 ### Datetime
 
 -	import library
 	```python
-	from datetime import datetime, date, time```
+	from datetime import datetime, date, time
+	```
 
 
 -	convert to different type of date format
-```python
-	df['month'] = df['date'].datetime.strftime('%Y-%m')```
+	```python
+	df['month'] = df['date'].datetime.strftime('%Y-%m')
+	```
 
 ### Seaborn
 
@@ -86,7 +100,8 @@ This documentation is to keep track of useful commands and resources for Python.
 	import matplotlib
 	from matplotlib import pyplot as plt
 	import seaborn as sns
-	%matplotlib inline```
+	%matplotlib inline
+	```
 
 -	bar chart
 	```python
@@ -99,4 +114,5 @@ This documentation is to keep track of useful commands and resources for Python.
 	                   estimator=sum)
 	g.ax.set_title("Title", fontsize=20) # set title
 	g.set_axis_labels("x_label", "y_label") # set labels
-	g.set_xticklabels(rotation=45); # rotate x axis labels```
+	g.set_xticklabels(rotation=45); # rotate x axis labels
+	```
