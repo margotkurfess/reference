@@ -33,4 +33,7 @@ There are generally more aesthetically pleasing ways of using the terminal on Ma
 ## Useful commands
 
 -	move file to different directory
-	```mv filename.type \pathNewDir```
+
+	```bat
+	mv filename.py \pathNewDir
+	```
