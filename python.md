@@ -11,9 +11,9 @@ This documentation is to keep track of useful commands and resources for Python.
 ## Useful commands by library
 
 -	[General](https://github.com/margotkurfess/reference/blob/master/python.md#general)
+- 	[Datetime](https://github.com/margotkurfess/reference/blob/master/python.md#datetime)
 - 	[Pandas](https://github.com/margotkurfess/reference/blob/master/python.md#pandas)
 -	[NumPy](https://github.com/margotkurfess/reference/blob/master/python.md#numpy)
-- 	[Datetime](https://github.com/margotkurfess/reference/blob/master/python.md#datetime)
 - 	[Seaborn](https://github.com/margotkurfess/reference/blob/master/python.md#seaborn)
 
 ### General
@@ -63,6 +63,22 @@ This documentation is to keep track of useful commands and resources for Python.
 	df = df.rename(columns={'oldName1': 'newName1', 'oldName2': 'newName2'})
 	```
 
+### Datetime
+
+-	import library
+	```python
+	from datetime import datetime, date, time
+	```
+
+-	convert to different type of date format
+	```python
+	month = date.strftime('%Y-%m')
+	```
+
+	```python
+	df['date'] = df['date'].apply(lambda x: datetime.strftime(x, '%Y-%m-%d'))
+	```
+
 ### Pandas
 
 -	import library
@@ -82,22 +98,6 @@ This documentation is to keep track of useful commands and resources for Python.
 
 ### NumPy
 _to be added_
-
-### Datetime
-
--	import library
-	```python
-	from datetime import datetime, date, time
-	```
-
--	convert to different type of date format
-	```python
-	month = date.strftime('%Y-%m')
-	```
-
-	```python
-	df['date'] = df['date'].apply(lambda x: datetime.strftime(x, '%Y-%m-%d'))
-	```
 
 ### Seaborn
 
