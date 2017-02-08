@@ -89,8 +89,13 @@ This documentation is to keep track of useful commands and resources for Python.
 
 
 -	convert to different type of date format
+	
 	```python
-	df['month'] = df['date'].datetime.strftime('%Y-%m')
+	month = date.strftime('%Y-%m')
+	```
+	
+	```python
+	df['date'] = df['date'].apply(lambda x: datetime.strftime(x, '%Y-%m-%d'))
 	```
 
 ### Seaborn
