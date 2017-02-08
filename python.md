@@ -12,6 +12,7 @@ This documentation is to keep track of useful commands and resources for Python.
 
 -	[General](https://github.com/margotkurfess/reference/blob/master/python.md#general)
 - 	[Pandas](https://github.com/margotkurfess/reference/blob/master/python.md#pandas)
+-	[NumPy](https://github.com/margotkurfess/reference/blob/master/python.md#numpy)
 - 	[Datetime](https://github.com/margotkurfess/reference/blob/master/python.md#datetime)
 - 	[Seaborn](https://github.com/margotkurfess/reference/blob/master/python.md#seaborn)
 
@@ -62,7 +63,6 @@ This documentation is to keep track of useful commands and resources for Python.
 	df = df.rename(columns={'oldName1': 'newName1', 'oldName2': 'newName2'})
 	```
 
-
 ### Pandas
 
 -	import library
@@ -80,6 +80,9 @@ This documentation is to keep track of useful commands and resources for Python.
 	df['date'] = pd.to_datetime(df['date'])
 	```
 
+### NumPy
+_to be added_
+
 ### Datetime
 
 -	import library
@@ -87,13 +90,11 @@ This documentation is to keep track of useful commands and resources for Python.
 	from datetime import datetime, date, time
 	```
 
-
 -	convert to different type of date format
-	
 	```python
 	month = date.strftime('%Y-%m')
 	```
-	
+
 	```python
 	df['date'] = df['date'].apply(lambda x: datetime.strftime(x, '%Y-%m-%d'))
 	```
