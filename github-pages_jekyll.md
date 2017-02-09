@@ -28,4 +28,13 @@ I forked the repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/mini
 -	This is all made possible for someone new to websites by its [great documentation](https://mmistakes.github.io/minimal-mistakes/). Unless you are a whiz with html, css, and general website structure, I believe this is the single most important factor in picking a template.
 
 
+There are a few other minimalist templates that I stumbled upon that could also be useful:
+
+-	
+-	
+-	
+
+
 ## Customizing your site
+
+
