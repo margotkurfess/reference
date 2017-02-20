@@ -41,5 +41,5 @@ There are generally more aesthetically pleasing ways of using the terminal on Ma
 -	create new file
 
 	```bat
-	New-Item filename.type -type file
+	New-Item filename.filetype -type file
 	```
