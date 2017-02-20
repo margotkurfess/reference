@@ -32,6 +32,8 @@ There are generally more aesthetically pleasing ways of using the terminal on Ma
 
 ## Useful commands
 
+*These are commands I use in PowerShell on Windows 10*
+
 -	move file to different directory
 
 	```bat
