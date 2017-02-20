@@ -37,3 +37,9 @@ There are generally more aesthetically pleasing ways of using the terminal on Ma
 	```bat
 	mv filename.py \pathNewDir
 	```
+
+-	create new file
+
+	```bat
+	New-Item filename.type -type file
+	```
