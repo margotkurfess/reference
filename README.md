@@ -6,7 +6,7 @@ Welcome!
 - [Overview](https://github.com/margotkurfess/reference#overview)
 - [Contribution](https://github.com/margotkurfess/reference#contribution)
 
-## Decription
+## Description
 
 **The goals of this repo are to:**
 - Keep track of the commands I find useful
