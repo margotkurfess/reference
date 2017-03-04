@@ -4,17 +4,17 @@ This documentation is to keep track of useful commands and resources for Python.
 
 ## General resources
 
--	[Python Reference Guide](https://www.python.org/dev/peps/pep-0008/) - Style guide for Python
--	[PyCharm](https://www.jetbrains.com/pycharm/) - Great Python IDE
--	[Python for Data Analysis (book)](http://shop.oreilly.com/product/0636920023784.do) - I use this book regularly as reference for all things data analysis-related
+- [Python Reference Guide](https://www.python.org/dev/peps/pep-0008/) - Style guide for Python
+- [PyCharm](https://www.jetbrains.com/pycharm/) - Great Python IDE
+- [Python for Data Analysis (book)](http://shop.oreilly.com/product/0636920023784.do) - I use this book regularly as reference for all things data analysis-related
 
 ## Useful commands by library
 
--	[General](https://github.com/margotkurfess/reference/blob/master/python.md#general)
-- 	[Datetime](https://github.com/margotkurfess/reference/blob/master/python.md#datetime)
-- 	[Pandas](https://github.com/margotkurfess/reference/blob/master/python.md#pandas)
--	[NumPy](https://github.com/margotkurfess/reference/blob/master/python.md#numpy)
-- 	[Seaborn](https://github.com/margotkurfess/reference/blob/master/python.md#seaborn)
+- [General](https://github.com/margotkurfess/reference/blob/master/python.md#general)
+- [Datetime](https://github.com/margotkurfess/reference/blob/master/python.md#datetime)
+- [Pandas](https://github.com/margotkurfess/reference/blob/master/python.md#pandas)
+- [NumPy](https://github.com/margotkurfess/reference/blob/master/python.md#numpy)
+- [Seaborn](https://github.com/margotkurfess/reference/blob/master/python.md#seaborn)
 
 ### General
 
