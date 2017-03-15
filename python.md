@@ -4,9 +4,9 @@ This documentation is to keep track of useful commands and resources for Python.
 
 ## General resources
 
-- [Python Reference Guide](https://www.python.org/dev/peps/pep-0008/) - Style guide for Python
-- [PyCharm](https://www.jetbrains.com/pycharm/) - Great Python IDE
 - [Python for Data Analysis (book)](http://shop.oreilly.com/product/0636920023784.do) - I use this book regularly as reference for all things data analysis-related
+- [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) - Kenneth Reitz rocks and his guides for using Python for projects has been amazingly helpful. In addition to the docs, I also really recommend [the book version](http://shop.oreilly.com/product/0636920042921.do)
+- [Python Reference Guide](https://www.python.org/dev/peps/pep-0008/) - Style guide for Python
 
 ## Useful commands by library
 
