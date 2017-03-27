@@ -16,6 +16,7 @@ Welcome!
 
 I will be adding to this repo as I continue to develop my technical tool kit. As of now, I am writing documentation for the following languages and tools:
 
+- [Data Analysis](https://github.com/margotkurfess/reference/blob/master/data-analysis.md)
 - [Python](https://github.com/margotkurfess/reference/blob/master/python.md)
 - [Command Line](https://github.com/margotkurfess/reference/blob/master/command_line.md)
 - [Jekyll and GitHub Pages](https://github.com/margotkurfess/reference/blob/master/github-pages_jekyll.md)
