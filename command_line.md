@@ -26,7 +26,7 @@ I use PowerShell on my Windows 10 at work. It has taken some getting used to, bu
 
 ### Mac
 
-There are generally more aesthetically pleasing ways of using the terminal on Mac (or at least I haven't found equivalents for PowerShell). There are a couple great articles on how to pimp out your Mac terminal experience.
+There are generally more aesthetically pleasing ways of using the terminal on Mac (or at least I haven't found equivalents for PowerShell). Here is one particularly good article on how to pimp out your Mac terminal experience.
 
 - [Mike Buss: A Beautifully Productive Terminal Experience](http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience)
 
