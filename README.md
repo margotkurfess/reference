@@ -22,6 +22,3 @@ I will be adding to this repo as I continue to develop my technical tool kit. As
 - [Jekyll and GitHub Pages](https://github.com/margotkurfess/reference/blob/master/github-pages_jekyll.md)
 - [R](https://github.com/margotkurfess/reference/blob/master/R.md)
 
-## Contribution
-
-While this is currently a personal reference guide, I am always open to suggestions so please feel free to fork the repo or [send me an email](mailto:margot.kurfess@gmail.com) with any feedback!
